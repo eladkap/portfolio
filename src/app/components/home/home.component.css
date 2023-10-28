@@ -19,3 +19,14 @@
     color: var(--icon-hover-color);
     transition: all 0.5s ease-out;
 }
+
+.btn {
+    font-size: large;
+    color: var(--text-color);
+    background-color: var(--btn-backcolor);
+}
+
+.btn:hover {
+    background-color: var(--btn-backcolor-hover);
+    transition: all 0.5s ease-out;
+}

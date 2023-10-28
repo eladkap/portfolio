@@ -24,10 +24,8 @@ body {
     --tab-color-focus: steelblue;
     --dialog-background: white;
     --header-color: white;
-    --help-line-hover: #eee;
-    --tabs-underline-color: #999;
-    --help-link-hover-backcolor: white;
-    --did-you-mean-color: #1a0dab;
-    --loading-color: #007bff;
+    --btn-backcolor: #21726A;
+    --btn-backcolor-hover: #33b3a6;
     --brand-color: #40e0d0;
+    --card-backcolor: #33b3a6;
 }
