@@ -1,0 +1,40 @@
+@import '~@angular/material/prebuilt-themes/indigo-pink.css';
+
+body {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+
+    --background-color: rgb(220,220,220);
+    --topnav-backcolor: #1a0dab;
+    --topnav-forecolor: white;
+    --topnav-hover-forecolor: lightgreen;
+    --text-color: black;
+    --dashboard-panel-backcolor: rgb(250, 250, 250);
+    --panel-up-color: green;
+    --panel-down-color: red;
+    --date-color: rgb(120, 120, 120);
+    --search-btn-backcolor: #cccccc;
+    --search-btn-color: steelblue;
+    --title-color: #2f67ff;
+    --link-color: #2f67ff;
+    --avatar-backcolor: blue;
+    --icon-color: #000;
+    --icon-hover-background: #ddd;
+    --tab-color: rgb(120, 120, 120);
+    --tab-color-focus: steelblue;
+    --views-color: green;
+    --loggeduser-backcolor: #c3c3c3;
+    --loggeduser-color: #333;
+    --dialog-background: white;
+    --header-color: black;
+    --help-line-hover: #eee;
+    --tabs-underline-color: #999;
+    --help-link-hover-backcolor: white;
+    --did-you-mean-color: #1a0dab;
+    --loading-color: #007bff;
+    --icon-hover-background-color: rgb(220, 220, 220);
+    --placeholder-color: #aaaaaa;
+}
