@@ -17,4 +17,7 @@ export class MenubarComponent implements OnInit {
     this.currentPage = page;
   }
 
+  toggleMenu() {
+    
+  }
 }

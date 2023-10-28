@@ -3,17 +3,16 @@
 }
 
 .topnav-link{
+    font-size: large;
     color: var(--topnav-forecolor);
 }
 
 .topnav-link:hover {
     color: var(--topnav-hover-forecolor);
-    /* background-color: var(--topnav-hover); */
     transition: 0.3s;
 }
 
 .topnav-link a.current {
     color: var(--topnav-hover-forecolor);
     text-decoration: underline;
-
 }

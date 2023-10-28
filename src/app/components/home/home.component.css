@@ -1,7 +1,21 @@
-/* .contact-menu {
-    margin-top: 2rem;
+.large-header {
+    font-size: 64px;
+    font-weight: 500;
+    color: var(--header-color);
 }
 
-.contact-menu a {
-    padding: 0.5rem;
-} */
+.medium-header {
+    font-size: 48px;
+    font-weight: 500;
+    color: var(--header-color);
+}
+
+.icon-link {
+    color: var(--icon-color);
+    transition: 0.5s;
+}
+
+.icon-link:hover {
+    color: var(--icon-hover-color);
+    transition: all 0.5s ease-out;
+}
