@@ -13,9 +13,10 @@ body {
     --topnav-forecolor: white;
     --topnav-hover-forecolor: #40e0d0;
     --text-color: white;
+    --card-backcolor: #2d394b;
     --paragraph-color: #aaaaaa;
     --date-color: rgb(120, 120, 120);
-    --title-color: #2f67ff;
+    --title-color: #40e0d0;
     --link-color: #2f67ff;
     --avatar-backcolor: blue;
     --icon-color: white;
@@ -27,5 +28,5 @@ body {
     --btn-backcolor: #21726A;
     --btn-backcolor-hover: #33b3a6;
     --brand-color: #40e0d0;
-    --card-backcolor: #33b3a6;
+    --time-color: #cccccc;
 }

@@ -1,7 +1,7 @@
 import { CommonModule } from '@angular/common';
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { AppComponent } from './app.component';
 import { MaterialModule } from './includes/material.module';
 import { AppRoutingModule } from './app-routing.module';
@@ -15,6 +15,7 @@ import { ProjectsComponent } from './components/projects/projects.component';
 import { MatIconModule } from '@angular/material/icon';
 import { MatButtonModule } from '@angular/material/button';
 import { MatToolbarModule } from '@angular/material/toolbar';
+import {MatCardModule} from '@angular/material/card'; 
 import { RouterModule } from '@angular/router';
 
 @NgModule({
@@ -37,6 +38,7 @@ import { RouterModule } from '@angular/router';
     MatIconModule,
     MatButtonModule,
     MatToolbarModule,
+    MatCardModule,
     RouterModule
   ],
   providers: [],
