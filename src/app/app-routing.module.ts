@@ -14,7 +14,7 @@ const routes: Routes = [
   {path: 'skills', component: SkillsComponent, title: 'Portfolio - Skills'},
   {path: 'education', component: EducationComponent, title: 'Portfolio - Education'},
   {path: 'projects', component: ProjectsComponent, title: 'Portfolio - Projects'},
-  {path: 'experience', component: ExperienceComponent, title: 'CAD Monitor - Experience'},
+  {path: 'experience', component: ExperienceComponent, title: 'Portfolio - Experience'},
 ]
 
 @NgModule({
