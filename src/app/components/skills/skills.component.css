@@ -3,3 +3,27 @@ mat-grid-tile {
     background: var(--card-backcolor);
     margin: 50px;
 }
+
+mat-card {
+    border-radius: 30px !important;
+}
+
+
+img {
+    width: 25%;
+}
+
+h3, h4 {
+    color: var(--text-color);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+td {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: var(--card-backcolor);
+}
