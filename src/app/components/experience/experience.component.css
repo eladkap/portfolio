@@ -23,6 +23,7 @@
 }
 
 .timeline ul li span {
+    width: 200px;
     display: inline-block;
     background-color: var(--btn-backcolor);
     border-radius: 25px;
