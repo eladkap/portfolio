@@ -5,3 +5,38 @@ h1, h2, h3, h4, h5, h6 {
 mat-card {
     background-color: var(--card-backcolor);
 }
+
+.company-image {
+    margin: auto;
+    border: #39c9bb 1px solid;
+    height: 100px;
+    width: 100px;
+}
+
+.btn,
+.btn-dark,
+.btn-light {
+  display: block;
+  padding: 0.5rem 1rem;
+  border: 0;
+  margin-bottom: 0.3rem;
+  max-width: 300px;
+  font-size: x-large;
+}
+
+.btn:hover,
+.btn-dark:hover,
+.btn-light:hover {
+  background: #39c9bb;
+  color: black;
+}
+
+.btn-dark {
+  background: black;
+  color: white;
+}
+
+.btn-light {
+  background: #c4c4c4;
+  color: #333;
+}
